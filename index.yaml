@@ -1,2 +1,14 @@
 apiVersion: v1
 entries:
+  cert-manager-letsencrypt:
+  - apiVersion: v2
+    appVersion: 1.0.3
+    created: "2023-01-13T18:36:32.061144824Z"
+    description: Create lets encrypt cluster issuers
+    digest: d3b52698914b953c1e8e29fe086c2124dee1731ac8c3ddf654e75fa3c086806c
+    name: cert-manager-letsencrypt
+    type: application
+    urls:
+    - https://github.com/logscale-contrib/helm-cert-manager-letsencrypt/releases/download/v1.0.3/cert-manager-letsencrypt-1.0.3.tgz
+    version: 1.0.3
+generated: "2023-01-13T18:36:32.06073552Z"
